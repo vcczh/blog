@@ -1,4 +1,4 @@
-baseURL = "http://zhihengchu.com"
+baseURL = "https://vcczh.github.io"
 languageCode = "en-us"
 title = "Zhiheng Chu"
 theme = "hugo-coder"
@@ -7,8 +7,8 @@ theme = "hugo-coder"
 
 [params] # theme parameters
     author = "Zhiheng Chu" # author's name
-    info = "Programmer, learner and maker" # author's job title or info
-    description = "John Doe's personal website" # site description
+    info = "Programmer, engineer and innovator" # author's job title or info
+    description = "Zhiheng Chu's personal website" # site description
     keywords = "blog,developer,personal" # site keywords
 
 # Social links
