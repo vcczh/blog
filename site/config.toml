@@ -1,0 +1,32 @@
+baseURL = "http://zhihengchu.com"
+languageCode = "en-us"
+title = "Zhiheng Chu"
+theme = "hugo-coder"
+
+# theme = "coder" # set the theme
+
+[params] # theme parameters
+    author = "Zhiheng Chu" # author's name
+    info = "Programmer, learner and maker" # author's job title or info
+    description = "John Doe's personal website" # site description
+    keywords = "blog,developer,personal" # site keywords
+
+# Social links
+[[params.social]]
+    name = "Github"
+    weight = 1
+    url = "https://github.com/vcczh/"
+[[params.social]]
+    name = "LinkedIn"
+    weight = 3
+    url = "https://www.linkedin.com/in/zhiheng-chu-a3626873"
+
+# Menu links
+[[menu.main]]
+    name = "Blog"
+    weight = 1
+    url  = "/posts/"
+[[menu.main]]
+    name = "About"
+    weight = 2
+    url = "/about/"
