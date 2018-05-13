@@ -8,7 +8,7 @@ This is the very beginning of my blog.
 
 ## So, why I blog?
 
-* *To blog is to learn.* <br /> It helps me re-enforce the mind power for retrieving the knowledge and re-index the whole staff that I learnt. A lot of learning theories are behind this. (May summarize them in other posts on those learning theories later...) The whole point is that I blog for myself. This is *DAY ONE* and not sure how long and how frequent I blog. But I promise that I will let you know whether it helps or not at the *END*.
+* *To blog is to learn.* <br /> It helps me re-enforce the mind power for retrieving the knowledge and re-index the whole staff that I learned. A lot of learning theories are behind this. (May summarize them in other posts later...) The whole point is that I blog for myself first, ha~ so selfish. This is *DAY ONE* and not sure how long and how frequent I blog. But I promise that I will let you know whether it helps or not at the *END*.
 
 * *To blog is to share.* <br /> Of course, every post here is written to be read and shared.
 	* First of all, apologize for my bad writing skills. English is not my native language and to improve the writing skill is one of the motivations as mentioned above. (To me, doing to learn is more than learning to do.)
